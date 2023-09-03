@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin: 0; /*to avoid unnessary height of free shipping heading on top*/
+    margin: 0; /*to avoid excess height of free shipping heading on top*/
     scroll-behavior:auto;
 }
 
